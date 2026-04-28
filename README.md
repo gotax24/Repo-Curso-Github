@@ -1,47 +1,90 @@
-# Repo-Curso-Github
-aca alojare las practicas de github para aprender a usarlo
+# 🎓 Curso Práctico de GitHub: De Cero a Maestro
 
-# 🚀 Bienvenidos al Curso Práctico de GitHub
-
-¡Hola! Este repositorio no es solo un texto, es tu área de práctica interactiva. Sigue las instrucciones paso a paso.
+Bienvenido a tu repositorio de aprendizaje. Este documento es interactivo: lee las instrucciones y realiza las acciones directamente en la plataforma.
 
 ---
 
-## 📌 Tu Progreso
-Haz clic en las casillas para ir marcando tus logros (GitHub guardará tu progreso mágicamente):
+## 📊 Mi Progreso de Aprendizaje
+*Marca cada función a medida que la domines:*
 
-- [x] Entrar al repositorio del curso.
-- [ ] Entender qué es un "Commit".
-- [ ] Completar la Misión 1.
+- [ ] 1. Conceptos y Configuración
+- [ ] 2. El Repositorio
+- [ ] 3. Subir el código (Add, Commit, Push)
+- [ ] 4. Bajar el código (Clone)
+- [ ] 5. Sincronizar cambios (Pull)
+- [ ] 6. Privacidad y Seguridad
+- [ ] 7. Seguimiento y Gestión (Issues/Projects)
 
 ---
 
-## 🎮 Misión 1: Interactuar con la plataforma
+## 🛠️ Módulos de Aprendizaje
 
-Para esta misión, necesito que vayas a nuestra sección de tareas (Issues) y dejes un comentario.
+Haz clic en cada sección para desplegar la lección y la práctica:
 
 <details>
-<summary>👉 <b>¡HAZ CLIC AQUÍ para revelar las instrucciones secretas!</b></summary>
+<summary><b>1️⃣ Conceptos y Configuración</b></summary>
 <br>
-¡Excelente! Acabas de abrir un menú desplegable. 
+Antes de empezar, asegúrate de tener las herramientas listas:
+- **Concepto:** Git es el sistema de control de versiones; GitHub es la nube donde se aloja.
+- **Acción:** ¿Ya tienes instalado GitHub Desktop? 
+<br>
+[📥 Descargar GitHub Desktop](https://desktop.github.com/)
+</details>
 
-Tu tarea es ir al Issue que creamos para practicar y escribir "¡Hola, estoy listo!" en los comentarios. Usa este botón para ir directamente:
+<details>
+<summary><b>2️⃣ El Repositorio</b></summary>
+<br>
+El repositorio es la carpeta de tu proyecto en la nube.
+- **Práctica:** Estás viendo uno ahora mismo. Observa el nombre arriba a la izquierda.
+- **Reto:** Intenta crear un repositorio nuevo desde el botón `+` en la barra superior de GitHub.
+</details>
 
-[🛎️ IR A LA TAREA (ISSUE #1)](../../issues/1)
+<details>
+<summary><b>3️⃣ Subir el código (Add, Commit, Push)</b></summary>
+<br>
+Este es el "Ciclo de Guardado" profesional:
+1. **Add:** Eliges qué archivos quieres guardar.
+2. **Commit:** Tomas la "foto" del estado actual.
+3. **Push:** Subes esa foto a la nube.
+<br>
+<kbd><b>[🚀 Haz tu primer Commit Web](../../new/main)</b></kbd> *(Crea un archivo nuevo aquí para probar)*
+</details>
 
+<details>
+<summary><b>4️⃣ Bajar el código (Clone)</b></summary>
+<br>
+Bajar el código significa traer una copia exacta de este repositorio a tu computadora.
+- **Acción:** Usa el botón verde **"<> Code"** que está arriba de este archivo y selecciona "Open with GitHub Desktop".
+</details>
+
+<details>
+<summary><b>5️⃣ Sincronizar cambios (Pull)</b></summary>
+<br>
+¿Alguien hizo cambios en la nube y no los tienes en tu PC? Necesitas un **Pull**.
+- **Práctica:** Haz un cambio en la web y luego presiona "Pull Origin" en tu aplicación de escritorio.
+</details>
+
+<details>
+<summary><b>6️⃣ Privacidad</b></summary>
+<br>
+Aprende a decidir quién ve tu trabajo.
+- **Instrucción:** Ve a la pestaña de **Settings** de este repositorio.
+- **Acción:** Busca la "Danger Zone" al final de la página para ver cómo cambiar de Público a Privado.
+<br>
+[⚙️ Ir a Ajustes](../../settings)
+</details>
+
+<details>
+<summary><b>7️⃣ Seguimiento (Issues y Proyectos)</b></summary>
+<br>
+GitHub no es solo código, es gestión de tareas.
+- **Issues:** Úsalos para reportar errores o tareas pendientes.
+- **Proyectos:** Tableros visuales para ver el estado del equipo.
+<br>
+[📝 Ver mis Tareas (Issues)](../../issues) | [📋 Ver el Tablero (Projects)](../../projects)
 </details>
 
 ---
 
-## 🖼️ Material Visual
-Aquí puedes arrastrar y soltar imágenes directamente desde tu computadora. GitHub creará el código automáticamente. 
-
-*(Ejemplo de imagen ilustrativa)*
-![Gato de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
----
-
-## ⏭️ Siguiente Lección
-Cuando termines, haz clic en el siguiente botón para ir al archivo de la lección 2:
-
-<kbd><b>[ ➡️ IR A LA LECCIÓN 2 ](practica_1.txt)</b></kbd>
+## 💡 Tip para Alumnos
+Para editar cualquier archivo de este curso, simplemente presiona la tecla <kbd>.</kbd> (punto) en tu teclado mientras estás en esta página. ¡Se abrirá un editor de código profesional en tu navegador!
