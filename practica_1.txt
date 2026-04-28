@@ -4,3 +4,5 @@
 Esta linea fue hecha desde mi computadora con GitHub desktop
 
 punch line
+
+agregamos desde el navegador para hacer un pull desde github desktop
