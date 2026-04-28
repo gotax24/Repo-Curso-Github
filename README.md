@@ -26,7 +26,7 @@ Haz clic en cada sección para desplegar la lección y la práctica:
 <br>
 Antes de empezar hay que diferenciar que es GIT y que es GITHUB, asegúrate de tener las herramientas listas:<Br>
 - Git: Es el sistema que registra los cambios en tus archivos (es el "historial de control de versiones").<Br>
-GitHub: Es la plataforma web donde guardas esos archivos, (La nube) y colaboras con otros.
+- GitHub: Es la plataforma web donde guardas esos archivos, (La nube) y colaboras con otros.
   
 -¿Ya tienes instalado Git y GitHub Desktop?
 <br>
@@ -37,9 +37,15 @@ GitHub: Es la plataforma web donde guardas esos archivos, (La nube) y colaboras 
 <details>
 <summary><b>2️⃣ El Repositorio</b></summary>
 <br>
-El repositorio es la carpeta de tu proyecto en la nube.
-- **Práctica:** Estás viendo uno ahora mismo. Observa el nombre arriba a la izquierda.
-- **Reto:** Intenta crear un repositorio nuevo desde el botón `+` en la barra superior de GitHub.
+El "repositorio" es la carpeta de tu proyecto, pero en la nube.
+-  Estás viendo un repositorio ahora mismo, Observa el nombre arriba a la izquierda.<br>
+
+  <img width="283" height="92" alt="image" src="https://github.com/user-attachments/assets/180e053a-eaf0-4ec7-b2c9-f13e6fd5fb99" /><br>
+-Inicialmente, aprenderas a Dominar la interfaz web, Github ademas de ser la nube donde se guardan tus desarollos tambien puedes encontrar otros Developers, entusiastas de la programacion y Recursos De casi cualquier tipo a modo de red social, miralo como una Enciclopedia de Soluciones de programacion. Deberas descubrirlo por ti mismo, ya que este Curso solo se enfoca en el Sistema GIT que es el control de versiones que nos interesa.<br>
+
+- Intenta crear un repositorio nuevo desde el botón `+` en la barra superior de GitHub.
+- <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/5a3110b5-ccf9-420e-ab7f-327d726c08a0" />
+
 </details>
 
 <details>
