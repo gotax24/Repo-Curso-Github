@@ -24,10 +24,13 @@ Haz clic en cada sección para desplegar la lección y la práctica:
 <details>
 <summary><b>1️⃣ Conceptos y Configuración</b></summary>
 <br>
-Antes de empezar, asegúrate de tener las herramientas listas:
-- **Concepto:** Git es el sistema de control de versiones; GitHub es la nube donde se aloja.
-- **Acción:** ¿Ya tienes instalado GitHub Desktop? 
+Antes de empezar hay que diferenciar que es GIT y que es GITHUB, asegúrate de tener las herramientas listas:
+- Git: Es el sistema que registra los cambios en tus archivos (es el "historial de control de versiones").
+GitHub: Es la plataforma web donde guardas esos archivos, (La nube) y colaboras con otros.
+  
+-¿Ya tienes instalado Git y GitHub Desktop?
 <br>
+[📥 Descargar Git](https://git-scm.com/install/)
 [📥 Descargar GitHub Desktop](https://desktop.github.com/)
 </details>
 
