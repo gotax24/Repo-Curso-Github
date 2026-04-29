@@ -52,10 +52,14 @@ Inicialmente, aprenderás a dominar la interfaz web. GitHub, además de ser la n
 <details>
 <summary><b>3️⃣ Subir el código (Add, Commit, Push)</b></summary>
 <br>
-Este es el "Ciclo de Guardado" profesional:
-1. **Add:** Eliges qué archivos quieres guardar.
-2. **Commit:** Tomas la "foto" (captura) del estado actual.
-3. **Push:** Subes esa foto a la nube.
+Este es el "Ciclo de Guardado":
+1. Add: Eliges qué archivos quieres guardar, en la carpeta local, desde Github desktop, en este caso desde el propio editor de github.
+  <img width="802" height="267" alt="image" src="https://github.com/user-attachments/assets/9ab66722-91f6-4e45-90ca-9a605d753d6a" />
+  <img width="917" height="481" alt="image" src="https://github.com/user-attachments/assets/d660de8d-bbca-482c-b6fa-202e2c57b0c5" />
+  <img width="547" height="530" alt="image" src="https://github.com/user-attachments/assets/0b393df1-8aaa-4321-b3dd-ae250f0e5726" />
+
+  2. Commit: Commit es el comando que te permite agregar una descripcion al control de versiones y asi saber que se hizo durante ese trabajo.
+3. Push: Es el comando que envia los archivos que seleccionaste a la nube, Recuerda que git siempre esta vigilando que sucede en tu proyecto de manera local, hasta que no hagas el ciclo Add, Commit, push en lo enviara nada al control de versiones de tu proyecto
 <br><br>
 <kbd><b>[🚀 Haz tu primer Commit Web](../../new/main)</b></kbd> *(Crea un archivo nuevo aquí para probar)*
 </details>
