@@ -65,13 +65,18 @@ Este es el "Ciclo de Guardado" profesional:
 <br>
 Bajar el código significa traer una copia exacta de este repositorio a tu computadora.
 <br><br>
-- **Acción:** Usa el botón verde **"<> Code"** que está arriba de este archivo y selecciona "Open with GitHub Desktop".
+- Usa el botón verde **"<> Code"** que está arriba de este archivo y selecciona "Open with GitHub Desktop"
+  <img width="464" height="404" alt="image" src="https://github.com/user-attachments/assets/d10dbda1-8a9d-4994-b3fd-1ba9ad6e0f71" />
+
 </details>
 
 <details>
 <summary><b>5️⃣ Sincronizar cambios (Pull)</b></summary>
 <br>
 ¿Alguien hizo cambios en la nube y no los tienes en tu PC? Necesitas un **Pull**.
+
+  <img width="837" height="233" alt="image" src="https://github.com/user-attachments/assets/ef2d64c8-d2ac-4039-a5d7-6b921b202f98" />
+
 <br><br>
 - **Práctica:** Haz un cambio en la web y luego presiona "Pull Origin" en tu aplicación de escritorio para traer las novedades.
 </details>
