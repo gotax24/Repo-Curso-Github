@@ -40,26 +40,29 @@ Antes de empezar, es fundamental diferenciar entre <b>Git</b> y <b>GitHub</b>. A
 El "repositorio" es la carpeta de tu proyecto, pero alojada en la nube.
 <br><br>
 - Estás viendo un repositorio ahora mismo. Observa el nombre arriba a la izquierda:<br>
-<img width="280" alt="Captura de nombre de repositorio" src="https://github.com/user-attachments/assets/180e053a-eaf0-4ec7-b2c9-f13e6fd5fb99" />
-<br><br>
-Inicialmente, aprenderás a dominar la interfaz web. GitHub, además de ser la nube para tus desarrollos, funciona como una red social donde puedes encontrar otros programadores y recursos de cualquier tipo. Míralo como una <b>Enciclopedia de Soluciones</b>. 
-<br><br>
-<b>Acción:</b> Intenta crear un repositorio nuevo desde el botón `+` en la barra superior de GitHub.
-<br>
-<img width="130" alt="Botón crear nuevo" src="https://github.com/user-attachments/assets/5a3110b5-ccf9-420e-ab7f-327d726c08a0" />
+
+  <img width="283" height="92" alt="image" src="https://github.com/user-attachments/assets/180e053a-eaf0-4ec7-b2c9-f13e6fd5fb99" /><br>
+
+- Inicialmente, aprenderás a dominar la interfaz web. GitHub, además de ser la nube donde se guardan tus desarrollos, también funciona como una red social donde puedes encontrar otros developers, entusiastas de la programación y recursos de casi cualquier tipo. Míralo como una Enciclopedia de Soluciones de programación. Deberás descubrirlo por ti mismo, ya que este curso solo se enfoca en el sistema Git, que es el control de versiones que nos interesa.<br>
+
+- Intenta crear un repositorio nuevo desde el botón `+` en la barra superior de GitHub.
+- <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/5a3110b5-ccf9-420e-ab7f-327d726c08a0" />
+
 </details>
 
 <details>
 <summary><b>3️⃣ Subir el código (Add, Commit, Push)</b></summary>
 <br>
-Este es el "Ciclo de Guardado":
-1. Add: Eliges qué archivos quieres guardar, en la carpeta local, desde Github desktop, en este caso desde el propio editor de github.
-  <img width="802" height="267" alt="image" src="https://github.com/user-attachments/assets/9ab66722-91f6-4e45-90ca-9a605d753d6a" />
-  <img width="917" height="481" alt="image" src="https://github.com/user-attachments/assets/d660de8d-bbca-482c-b6fa-202e2c57b0c5" />
-  <img width="547" height="530" alt="image" src="https://github.com/user-attachments/assets/0b393df1-8aaa-4321-b3dd-ae250f0e5726" />
+Este es el "Ciclo de Guardado" profesional:
 
-  2. Commit: Commit es el comando que te permite agregar una descripcion al control de versiones y asi saber que se hizo durante ese trabajo.
-3. Push: Es el comando que envia los archivos que seleccionaste a la nube, Recuerda que git siempre esta vigilando que sucede en tu proyecto de manera local, hasta que no hagas el ciclo Add, Commit, push en lo enviara nada al control de versiones de tu proyecto
+1. **Add:** Eliges qué archivos quieres guardar, en la carpeta local, desde GitHub Desktop o, en este caso, desde el propio editor de GitHub.
+   <br><img width="802" height="267" alt="image" src="https://github.com/user-attachments/assets/9ab66722-91f6-4e45-90ca-9a605d753d6a" />
+   <br><img width="917" height="481" alt="image" src="https://github.com/user-attachments/assets/d660de8d-bbca-482c-b6fa-202e2c57b0c5" />
+   <br><img width="547" height="530" alt="image" src="https://github.com/user-attachments/assets/0b393df1-8aaa-4321-b3dd-ae250f0e5726" />
+
+2. **Commit:** Es el comando que te permite agregar una descripción al control de versiones y así saber qué se hizo durante ese trabajo.
+
+3. **Push:** Es el comando que envía los archivos que seleccionaste a la nube. Recuerda que Git siempre está vigilando qué sucede en tu proyecto de manera local; hasta que no hagas el ciclo Add, Commit, Push, no enviará nada al control de versiones de tu proyecto.
 <br><br>
 <kbd><b>[🚀 Haz tu primer Commit Web](../../new/main)</b></kbd> *(Crea un archivo nuevo aquí para probar)*
 </details>
@@ -69,8 +72,8 @@ Este es el "Ciclo de Guardado":
 <br>
 Bajar el código significa traer una copia exacta de este repositorio a tu computadora.
 <br><br>
-- Usa el botón verde **"<> Code"** que está arriba de este archivo y selecciona "Open with GitHub Desktop"
-  <img width="464" height="404" alt="image" src="https://github.com/user-attachments/assets/d10dbda1-8a9d-4994-b3fd-1ba9ad6e0f71" />
+- **Acción:** Usa el botón verde **"<> Code"** que está arriba de este archivo y selecciona "Open with GitHub Desktop".
+  <br><img width="464" height="404" alt="image" src="https://github.com/user-attachments/assets/d10dbda1-8a9d-4994-b3fd-1ba9ad6e0f71" />
 
 </details>
 
@@ -80,6 +83,10 @@ Bajar el código significa traer una copia exacta de este repositorio a tu compu
 ¿Alguien hizo cambios en la nube y no los tienes en tu PC? Necesitas un **Pull**.
 
   <img width="837" height="233" alt="image" src="https://github.com/user-attachments/assets/ef2d64c8-d2ac-4039-a5d7-6b921b202f98" />
+
+  Git también vigilará los archivos en la nube y te dirá, en GitHub Desktop, cuáles son los cambios que necesitas:
+  <br><img width="922" height="331" alt="image" src="https://github.com/user-attachments/assets/934077fd-e84e-46a2-966d-190320fc4340" />
+  <br>Si no tienes GitHub Desktop, tienes que descargar los archivos directamente desde la página en la sección de descargas.
 
 <br><br>
 - **Práctica:** Haz un cambio en la web y luego presiona "Pull Origin" en tu aplicación de escritorio para traer las novedades.
@@ -110,4 +117,4 @@ GitHub no es solo código, es gestión de tareas.
 ---
 
 ## 💡 Tip para Alumnos
-Para editar cualquier archivo de este curso rápidamente, presiona la tecla <kbd>.</kbd> (punto) en tu teclado mientras estás en esta página. ¡Se abrirá un editor de código (VS Code web) directamente en tu navegador!
+Para editar cualquier archivo de este curso rápidamente, presiona la tecla <kbd>.</kbd> (punto) en tu teclado mientras estás en esta página. ¡Se abrirá un editor de código profesional directamente en tu navegador!
